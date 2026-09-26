@@ -1,0 +1,16 @@
+# Cache Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Konfigurasi lokal
+.env
+.env.*
+
+# File sementara
+.ipynb_checkpoints/
+*.duckdb.wal
+~$*
